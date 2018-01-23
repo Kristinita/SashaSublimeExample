@@ -1,0 +1,10 @@
+{
+  "name": "SashaSublime",
+  "version": "1.7.2",
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^6.1.0"
+  }
+}
